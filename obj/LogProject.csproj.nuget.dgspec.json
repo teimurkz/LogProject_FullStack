@@ -1,31 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ti live\\RiderProjects\\LogProject_FullStack\\LogProject.csproj": {}
+    "/Users/teimurfarajov/Desktop/logApp 0.1/API/LogProject/LogProject/LogProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ti live\\RiderProjects\\LogProject_FullStack\\LogProject.csproj": {
+    "/Users/teimurfarajov/Desktop/logApp 0.1/API/LogProject/LogProject/LogProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ti live\\RiderProjects\\LogProject_FullStack\\LogProject.csproj",
+        "projectUniqueName": "/Users/teimurfarajov/Desktop/logApp 0.1/API/LogProject/LogProject/LogProject.csproj",
         "projectName": "LogProject",
-        "projectPath": "C:\\Users\\Ti live\\RiderProjects\\LogProject_FullStack\\LogProject.csproj",
-        "packagesPath": "C:\\Users\\Ti live\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ti live\\RiderProjects\\LogProject_FullStack\\obj\\",
+        "projectPath": "/Users/teimurfarajov/Desktop/logApp 0.1/API/LogProject/LogProject/LogProject.csproj",
+        "packagesPath": "/Users/teimurfarajov/.nuget/packages/",
+        "outputPath": "/Users/teimurfarajov/Desktop/logApp 0.1/API/LogProject/LogProject/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Ti live\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/teimurfarajov/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,6 +50,10 @@
               "version": "[9.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[9.0.10, )"
             },
@@ -88,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
